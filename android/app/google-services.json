@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307188946999",
+    "firebase_url": "https://circlestest4.firebaseio.com",
+    "project_id": "circlestest4",
+    "storage_bucket": "circlestest4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307188946999:android:654facd67172ab3a6d87b2",
+        "android_client_info": {
+          "package_name": "com.example.circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307188946999-7bdcnmohnmk22bju937gg891sligusf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLGi9H-noYor0I_n-wUpywcF5hILZO1_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307188946999-7bdcnmohnmk22bju937gg891sligusf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307188946999-6bilqihbm5asppj4gmd1egurdcocgp9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "CirclesTest4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
